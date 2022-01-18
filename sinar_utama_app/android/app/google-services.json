@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987968922690",
+    "project_id": "sinar-utama-app-cef8d",
+    "storage_bucket": "sinar-utama-app-cef8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987968922690:android:e2085a7c47f2fccbbff9db",
+        "android_client_info": {
+          "package_name": "com.example.sinar_utama_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987968922690-e5iim1eqje5gdl1i3ltfld37mr305h28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sinar_utama_app",
+            "certificate_hash": "2e07e510595134ec23110601ec87822884d2b04b"
+          }
+        },
+        {
+          "client_id": "987968922690-v4v40ktoe8b6jenk5muv5occqtmsid88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANbM8LvvARiCONUxzKRbbAjkvHjfystqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987968922690-v4v40ktoe8b6jenk5muv5occqtmsid88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
